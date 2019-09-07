@@ -1,0 +1,9 @@
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\bin\Debug\Data.dll
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\bin\Debug\Data.pdb
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\bin\Debug\Entity.dll
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\bin\Debug\Entity.pdb
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\obj\Debug\Data.csproj.CopyComplete
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\obj\Debug\Data.dll
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Data\obj\Debug\Data.pdb

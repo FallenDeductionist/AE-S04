@@ -1,0 +1,6 @@
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Entity\bin\Debug\Entity.dll
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Entity\bin\Debug\Entity.pdb
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Entity\obj\Debug\Entity.dll
+D:\Tecsup\SEXTO CICLO\EmpresarialesAvanzado\Projects\S04\Semana04\Entity\obj\Debug\Entity.pdb
